@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshpitchaiah&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshpitchaiah" /> </p>
 
-- 🔭 I’m currently working on **WWE**
+- 🔭 I’m currently working along with **WWE**
 
 - 🌱 I’m currently learning **DLOps**
 
