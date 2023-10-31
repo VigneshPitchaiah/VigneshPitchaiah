@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **DLOps**
 
-- 💬 Ask me about **ML, Neural Networks, DBT, Big Data Algorithm**
+- 💬 Ask me about **ML, Neural Networks, DBT, Data Structure Algorithm**
 
-- 📫 How to reach me **vigneshvicky7135@gmail.com**
+- 📫 How to reach me **vignesh.pitchaiah@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
