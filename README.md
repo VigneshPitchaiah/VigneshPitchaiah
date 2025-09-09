@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">A passionate Machine Learning Developer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <p align="center">
   <img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202211/MIT-Neural-Networks-01_0.gif?itok=JNbooIWQ" alt="Coding" width="400"/>
