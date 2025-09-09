@@ -9,9 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=vigneshpitchaiah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working with **World Wrestling Entertainment**
+- 🔭 I’m currently working with **TKO**
 - 🌱 I’m currently learning **DevOps**
-- 💬 Ask me about **Data Modeling, Data Architecture, GDPR Automation, DBT, Data Structures & Algorithms**
+- 💬 Ask me about **Data Modeling, Data Architecture, GDPR Compliance, DBT, Data Structures & Algorithms**
 - 📫 How to reach me: **vignesh.pitchaiah@outlook.com**
 
 ---
